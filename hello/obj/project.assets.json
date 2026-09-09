@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/val/.nuget/packages/": {}
+    "/home/aizen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/val/sdu/oop/hello/hello.csproj",
+      "projectUniqueName": "/home/aizen/sdu/oop/hello/hello.csproj",
       "projectName": "hello",
-      "projectPath": "/home/val/sdu/oop/hello/hello.csproj",
-      "packagesPath": "/home/val/.nuget/packages/",
-      "outputPath": "/home/val/sdu/oop/hello/obj/",
+      "projectPath": "/home/aizen/sdu/oop/hello/hello.csproj",
+      "packagesPath": "/home/aizen/.nuget/packages/",
+      "outputPath": "/home/aizen/sdu/oop/hello/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/val/.nuget/NuGet/NuGet.Config"
+        "/home/aizen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
