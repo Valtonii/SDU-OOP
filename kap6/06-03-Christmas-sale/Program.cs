@@ -5,8 +5,6 @@ double price = 599.95;
 double discountedPrice = price - ((price/100)*30);
 
 int secInDays = (secNewYear/secDay); // Calculates the seconds into days
-    // Console.WriteLine(secInDays);
-
 
 
 
