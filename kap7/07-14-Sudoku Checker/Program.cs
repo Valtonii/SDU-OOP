@@ -14,7 +14,7 @@ int[,] solvedSudoku = {
 for (int i = 0; i < 9; i++) // Runs nine times, i = 0 to 8. Each pass handles one row and one column at the same time: pass 3 checks row 3 and column 3.
 {
     bool[] found = new bool[9]; // Two fresh checklists, all false. found is for this pass's row. Declared inside the loop, so each pass gets new ones.
-    bool[] foundCol = new bool[9]; // foundCol for this pass's column. Declared inside the loop, so each pass gets new ones.
+    bool[] foundCol = new bool[9]; // foundCol for this pass's column. Declared inside the loop, so each pass gets new ones08
 
     for (int col = 0; col < found.Length; col++)
     {

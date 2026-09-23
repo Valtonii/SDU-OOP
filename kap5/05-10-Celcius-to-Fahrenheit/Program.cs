@@ -1,4 +1,4 @@
-﻿double celsius = 37.5;
+﻿double celsius = 0;
 double fahrenheit = 32 + (double) 9/5 * celsius;
 
 Console.WriteLine("");
