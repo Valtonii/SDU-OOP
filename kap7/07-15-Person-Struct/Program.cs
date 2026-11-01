@@ -1,4 +1,4 @@
-﻿Person p = new Person {name="Valton", age=19};
+﻿/* Person p = new Person {name="Valton", age=19};
 
 Console.WriteLine();
 Console.WriteLine("Name: "+p.name);
@@ -9,3 +9,4 @@ class Person {
     public string name;
     public int age;
 }
+*/
